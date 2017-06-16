@@ -1,1 +1,15 @@
 
+Annotation 
+M -> Mandatory
+
+1.(M)All programming relate name can not STRAT WITH or END WITH underscore("_") or dollar("$").
+  Counter examples:
+  _name / __name / $Object / name_ / name$ / Object$ 
+  
+2.(M)All programming related to the name is strictly prohibited using phonetic and English way of mixing, but also do not allow direct use of Chinese way. Note: correct English spelling and grammar can make the reader easy to understand and avoid ambiguity. Note that even pure phonetic namingmethods should be avoided
+  Counter examples:
+  DaZhePromotion [打折] / getPingfenByName() [评分] / int变量= 3; 
+  Correct examples:
+  ali / alibaba / taobao / cainiao / aliyun / youku / hangzhou etc. And other international common name, can be regarded as English.
+
+3.
